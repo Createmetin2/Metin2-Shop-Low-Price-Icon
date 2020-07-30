@@ -1,0 +1,1 @@
+#define SHOP_FREE_ICON
